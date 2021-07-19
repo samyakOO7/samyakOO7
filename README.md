@@ -1,1 +1,1 @@
-[![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakOO7&show_icons=true&bg_color=1B2631,212F3C,2E4053,34495E,5D6D7E,AEB6BF,D6DBDF,EBEDEF&text_color=AA00FF&title_color=E67E22)](https://github.com/samyakOO7/github-readme-stats)
+[![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakOO7&show_icons=true&bg_color=2E4053,34495E,5D6D7E,AEB6BF,D6DBDF,EBEDEF&text_color=AA00FF&title_color=E67E22)](https://github.com/samyakOO7/github-readme-stats)
