@@ -1,1 +1,1 @@
-[![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakOO7&show_icons=true&bg_color=EAECEE&text_color=AA00FF&title_color=E67E22)](https://github.com/samyakOO7/github-readme-stats)
+[![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakOO7&show_icons=true&bg_color=EBEDEF,AEB6BF,E5E8E8&text_color=AA00FF&title_color=E67E22)](https://github.com/samyakOO7/github-readme-stats)
